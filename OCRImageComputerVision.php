@@ -1,6 +1,6 @@
 <?php
     //save file image
-    $subscriptionKey="0ed840ad4e604eb49e62f5e69f926558";
+    $subscriptionKey="52a6cf65ec764e83b4c4240d9102f368";
     $language='en';
 	$uploadDir="upload/";
 	$fileImage=$_FILES["fileImage"]["name"];    
